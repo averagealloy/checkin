@@ -9,7 +9,7 @@
         "16": "check_mark_16x16.png",
     },
     "browser_action":{
-        "default_icon": "check_mark_16x16.png"
-        
+        "default_icon": "check_mark_16x16.png",
+        "default_popup": "popup.html"
     }
 }
