@@ -6,7 +6,7 @@
     "icons": {
         "128": "check_mark_128x128.png",
         "48": "check_mark_48x48.png",
-        "16": "check_mark_16x16.png",
+        "16": "check_mark_16x16.png"
     },
     "browser_action":{
         "default_icon": "check_mark_16x16.png",
