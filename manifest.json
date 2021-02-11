@@ -1,3 +1,15 @@
-// "test"
-// "new test"
-// "I am not sure what going on?"
+{
+    "manifest_version": 2,
+    "name": "Check In",
+    "version": "1.0",
+    "description": "A place to put the thoughts in your head you want out!",
+    "icons": {
+        "128": "check_mark_128x128.png",
+        "48": "check_mark_48x48.png",
+        "16": "check_mark_16x16.png",
+    },
+    "browser_action":{
+        "default_icon": "check_mark_16x16.png"
+        
+    }
+}
